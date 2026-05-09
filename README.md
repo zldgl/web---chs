@@ -32,4 +32,5 @@
 1. 克隆仓库：
    ```bash
    git clone https://github.com/zldgl/web---chs.git
+   或者下载release里的压缩包
 2. 使用ep文件夹下的开始游戏.bat 运行本地服务器
