@@ -1,0 +1,103 @@
+[
+    {
+        "file_name": "scene13.xlsx",
+        "storage_path": "scene13.xlsx",
+        "text_index": 339,
+        "source_text": "お昼時の店内は、人気バンドのコンサート会場のように人でいっぱいだ。",
+        "translated_text": "午餐时分的店内，像人气乐队的演唱会现场一样人满为患。",
+        "errors": [
+            "📚[术语表错误] 原文含 'コン'，译文未找到对应术语 '今'"
+        ]
+    },
+    {
+        "file_name": "scene2.xlsx",
+        "storage_path": "scene2.xlsx",
+        "text_index": 499,
+        "source_text": "「見てるだけでもいいからよ。上手く行ったら、そのまま合コンになるかも知れねえぞ」",
+        "translated_text": "「只是看着也行啊。顺利的话说不定直接就办联谊了哦」",
+        "errors": [
+            "📚[术语表错误] 原文含 'コン'，译文未找到对应术语 '今'"
+        ]
+    },
+    {
+        "file_name": "scene3.xlsx",
+        "storage_path": "scene3.xlsx",
+        "text_index": 566,
+        "source_text": "ここまでされちゃ、苦労してまでここを選ぶヤツはいないな。[l]線路とかダムとか、コンビニエンスなスポットは他にいっぱいあるもの。",
+        "translated_text": "做到这个地步，应该没有人会费尽辛苦选择这里吧。[l]铁路、水坝什么的，方便的地点还有很多。",
+        "errors": [
+            "📚[术语表错误] 原文含 'コンビニ'，译文未找到对应术语 '便利店'",
+            "📚[术语表错误] 原文含 'コン'，译文未找到对应术语 '今'"
+        ]
+    },
+    {
+        "file_name": "scene4.xlsx",
+        "storage_path": "scene4.xlsx",
+        "text_index": 655,
+        "source_text": "ダンゴムシみたいに、隅っこで身体を丸めていればミッションコンプリートだ。",
+        "translated_text": "像鼠妇一样，在角落里蜷缩着身体就算任务完成。",
+        "errors": [
+            "📚[术语表错误] 原文含 'コン'，译文未找到对应术语 '今'"
+        ]
+    },
+    {
+        "file_name": "scene5.xlsx",
+        "storage_path": "scene5.xlsx",
+        "text_index": 715,
+        "source_text": "「いーや、確実に怪しんでたね。あたし、その目つきテレビで見たことあるもん。万引きＧメンがオイタする主婦を捕まえるやつ」",
+        "translated_text": "「不—你肯定在怀疑我。那眼神我在电视上见过。就是抓小偷的政府特工抓住偷东西的主妇时的眼神。」",
+        "errors": [
+            "📚[术语表错误] 原文含 '万引きＧメン'，译文未找到对应术语 '扒窃侦探'"
+        ]
+    },
+    {
+        "file_name": "scene6.xlsx",
+        "storage_path": "scene6.xlsx",
+        "text_index": 828,
+        "source_text": "ドアの周りもコンクリートで固めてあって……これじゃ出られねえじゃん。",
+        "translated_text": "门的周围也用混凝土加固了……这样根本出不去啊。",
+        "errors": [
+            "📚[术语表错误] 原文含 'コン'，译文未找到对应术语 '今'"
+        ]
+    },
+    {
+        "file_name": "scene7.xlsx",
+        "storage_path": "scene7.xlsx",
+        "text_index": 913,
+        "source_text": "これらは“悪玉菌”を退治するために、世界が人々を毒でコントロールしている。",
+        "translated_text": "这些都是为了消灭“有害菌”，世界用毒素控制人们。",
+        "errors": [
+            "📚[术语表错误] 原文含 'コン'，译文未找到对应术语 '今'"
+        ]
+    },
+    {
+        "file_name": "scene9.xlsx",
+        "storage_path": "scene9.xlsx",
+        "text_index": 1165,
+        "source_text": "部屋はほぼそのままにしてきたし、不便を承知でスマホも置いてきた。ＧＰＳやら通信記録から位置を特定されたら困るし。",
+        "translated_text": "房间几乎保持原样，明知不便也把智能手机留了下来。因为如果被通过GPS和通信记录锁定位置就麻烦了。",
+        "errors": [
+            "📚[术语表错误] 原文含 'ＧＰＳ'，译文未找到对应术语 '全球定位系统'"
+        ]
+    },
+    {
+        "file_name": "scene9.xlsx",
+        "storage_path": "scene9.xlsx",
+        "text_index": 1316,
+        "source_text": "「コンクリートだっテ、真っ二つなンだぜ？」",
+        "translated_text": "「连混凝土都能劈成两半哦？」",
+        "errors": [
+            "📚[术语表错误] 原文含 'コン'，译文未找到对应术语 '今'"
+        ]
+    },
+    {
+        "file_name": "scene9.xlsx",
+        "storage_path": "scene9.xlsx",
+        "text_index": 1317,
+        "source_text": "映画館、西口公園、ハンズ、怖い、マックのクーポン、革製品、怖い、コンビニ、夕食、狂人、怪人、二見加奈子、怖い、怖い、サイコパス、怖い、怖い、怖　い、怖　い、怖　い、怖　い　！",
+        "translated_text": "电影院、西口公园、东急手创馆、可怕、麦当劳优惠券、皮革制品、可怕、便利店、晚饭、狂人、怪人、二见加奈子、可怕、可怕、精神病态者、可怕、可怕、可　怕、可　怕、可　怕、可　怕　！",
+        "errors": [
+            "📚[术语表错误] 原文含 'コン'，译文未找到对应术语 '今'"
+        ]
+    }
+]
